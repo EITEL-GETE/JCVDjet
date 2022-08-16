@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fdb97413fd8623b43a1a3fe3061b40af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SceneMusic: {instanceID: 0}
+  - GameOverMusic: {instanceID: 0}
+  - GameMusic: {instanceID: 0}
+  - gameOverBkgd: {instanceID: 0}
+  - continueScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

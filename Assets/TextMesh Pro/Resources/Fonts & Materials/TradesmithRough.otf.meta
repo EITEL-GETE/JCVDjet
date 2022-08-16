@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 43e8f6a73801ac44784db5fd4cb7d1e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tradesmith
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 725b043f61c2188479385db7adeee646, type: 3}
+  - {fileID: 12800000, guid: e09322b01598bce44bedae983317af07, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
